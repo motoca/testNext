@@ -26,7 +26,7 @@ function Home() {
     return (
         <div>
             <h1>Home</h1>
-            <CapsLock>"teste de texto em caixa alta"</CapsLock>
+            <CapsLock>"teste de texto em caixa alta, novo diretório"</CapsLock>
             <Contador />
         </div>
     )
