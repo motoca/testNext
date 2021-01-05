@@ -1,7 +1,7 @@
 {
   "name": "testNext",
   "version": "1.0.0",
-  "description": "",
+  "description": "Teste Conhecendo ",
   "main": "index.js",
   "scripts": {
     "dev": "next dev"
@@ -11,13 +11,14 @@
     "url": "git+https://github.com/motoca/testNext.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "WGS",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/motoca/testNext/issues"
   },
   "homepage": "https://github.com/motoca/testNext#readme",
   "dependencies": {
+    "gray-matter": "^4.0.2",
     "next": "^10.0.2",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
